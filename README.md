@@ -1,7 +1,5 @@
-# Welcome to streamlit
+# Welcome to streamlit app
 
-This is the app you get when you run `streamlit hello`, extracted as its own app.
+This small app is created as a part of IITM TDS Course
 
-Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
-
-Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
+DATE: 8 December 2023
